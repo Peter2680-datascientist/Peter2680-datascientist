@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peter2680-datascientist
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on with any amazon aws expert. 
 - 📫 How to reach me : you can reach me here or by my email joysolomon2680@gmail.com
 
 <!---
